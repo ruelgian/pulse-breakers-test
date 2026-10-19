@@ -1,0 +1,6 @@
+PULSE//BREAKERS WebGL test build
+This folder is a static site. Open index.html over http(s), not as a file:// URL.
+GitHub Pages: deploy this folder as the site root. .nojekyll is included so Pages does not drop files.
+Compression is Brotli with Unity decompression fallback, so a host does not need Content-Encoding: br.
+iPhone Safari: use landscape, tap once to load if the page asks, then tap again inside the game to start audio.
+Add to Home Screen for a fuller frame. iOS cannot lock orientation from a normal browser tab.
