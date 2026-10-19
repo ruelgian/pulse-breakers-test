@@ -6,8 +6,8 @@
   },
   "outcome": "success",
   "exitCode": 0,
-  "startedAt": "2026-10-19T06:18:11.076Z",
-  "endedAt": "2026-10-19T06:21:48.853Z",
+  "startedAt": "2026-10-19T09:00:56.316Z",
+  "endedAt": "2026-10-19T09:04:44.624Z",
   "editor": {
     "version": "6000.3.26f1",
     "changeset": "de8167e7440c",
@@ -17,11 +17,11 @@
     "target": "WebGL",
     "executeMethod": "BuildScripts.BuildWebGL",
     "outputPath": "Builds/WebGL",
-    "logFile": "Logs/build-v6d.log"
+    "logFile": "Logs/build-v7b.log"
   },
   "source": {
     "vcs": "git",
-    "revision": "4afa5f54e5185fa0820b247567b27d1e32f47be0",
+    "revision": "2077d8912536ee3e3158f5a3f94aee26edd84aa5",
     "dirty": true
   },
   "packages": {
